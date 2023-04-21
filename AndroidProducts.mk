@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_h932.mk
+    $(LOCAL_DIR)/lmodroid_h932.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_h932-userdebug \
-    lineage_h932-eng
+    lmodroid_h932-userdebug \
+    lmodroid_h932-eng
